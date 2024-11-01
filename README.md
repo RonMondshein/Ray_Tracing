@@ -26,6 +26,7 @@ Below are examples of images rendered using this ray tracer:
 
 # Repository Structure
 
+```plaintext
 camera.py
 color.py
 intensity.py
